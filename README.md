@@ -29,8 +29,8 @@ Installation of this application would be on the terminal using localhost with n
 
 ## Links
 
-### [Walkthrough Video of the Application]()
+### [Walkthrough Video of the Application](./Assets/Walkthrough-Video-of-ORM-Challenge.webm)
 
-### [The URL GitHub Repository of the Application]()
+### [The URL GitHub Repository of the Application](https://github.com/Tesfa8186/ORM-Challenge)
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
